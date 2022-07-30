@@ -74,7 +74,7 @@ According to this survey, almost 73.73 percent of the clients were return custom
  
 This report contains all previous applications for Home Credit loans of clients who have loans in our sample.
 
-![image](https://user-images.githubusercontent.com/68920721/181876723-9c67a578-abf9-4c7f-af5c-0af65467a137.png)
+![image](https://user-images.githubusercontent.com/68920721/181878630-521e9948-312b-42c4-b81f-96b7fb4dcdc7.png)
 
 The approach used to bring in the clients is shown in this report. Most of them came from cash and credit offices. Approximately 80% of the clients opted for insurance. And most of the customers obtained loans to purchase homes.
 
