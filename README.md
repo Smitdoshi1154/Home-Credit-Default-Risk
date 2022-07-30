@@ -4,6 +4,10 @@
 
 #### The objective of this project is to use historical loan application data to Visualize which applicants are able to repay the loans.
 
+### Report:
+
+You can obtain the Report from my [Google Drive](https://drive.google.com/file/d/1xrt55auLcHjdVrrSJJ1R8K3Bs1AQ6W-V/view?usp=sharing).
+
 
 ### Dataset:
 
