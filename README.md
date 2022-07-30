@@ -4,16 +4,25 @@
 
 #### The objective of this project is to use historical loan application data to Visualize which applicants are able to repay the loans.
 
+
+### Dataset:
+
+The dataset ultilized for this financial project was sourced from [Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk/data).
+
+
 ## Contents of the Report:
+
 1. Client
 2. Application
 3. Credit Bureau
 4. Credit Card Balance
 5. Previous Application
 
+
 ### Phase of Work:
 I used a variety of graphs and visualization to forecast Home Credit clients' repayment capacities in order to determine how capable each application is of repaying a loan. Home Credit presently uses a variety of statistical and machine learning techniques to get these predictions, but I have generated similar predictions using Power BI.
 By doing this, lenders may prevent clients who can pay back loans from being turned away and can give out loans with principal, maturities, and repayment schedules that will help borrowers succeed.
+
 
 ## Client
 
@@ -22,6 +31,7 @@ The report below includes demographic data regarding the clients' yearly income,
 ![image](https://user-images.githubusercontent.com/68920721/181877202-2aff7ae7-e69f-47ad-a57c-d9d4df655511.png)
 
 Here, we can observe that the majority of the applicants for loans are employees. Only 2% of the clients either live in a rented apartment or with their parents, and about 67 percent of those who sought for loans were female.
+
 
 ## Application
 
@@ -41,6 +51,7 @@ This report describes all client's previous credits provided by other financial 
 
 As we can see, the average current debt is 137K, while the largest amount past due is 116M. Clients have taken out 54 percent of the 63 percent of closed credit activity in consumer loans.
 
+
 ## Credit Card Balance
 
 This report consists of the monthly balance snapshots of previous credit cards that the applicant has with the Home Credit.
@@ -48,6 +59,7 @@ This report consists of the monthly balance snapshots of previous credit cards t
 ![image](https://user-images.githubusercontent.com/68920721/181876701-7b150d76-e5c4-471a-9130-fa67ff0f99a9.png)
 
 According to the figure above, 18.54 billion of the 28.5 billion dollars that were pulled in the previous month came through atms. 9.2 billion were drawn to purchase products. and the remaining 890 million were drawn for rest.
+
 
 ## Previous Application - 1
 
@@ -57,6 +69,7 @@ This report compares the clients with their credit limits, existing credit amoun
 
 According to this survey, almost 73.73 percent of the clients were return customers. Around 747K was paid via revolving cash, and the majority of client rejections were attributable to XAP.
 
+
 ## Previous Application - 2
  
 This report contains all previous applications for Home Credit loans of clients who have loans in our sample.
@@ -65,9 +78,15 @@ This report contains all previous applications for Home Credit loans of clients 
 
 The approach used to bring in the clients is shown in this report. Most of them came from cash and credit offices. Approximately 80% of the clients opted for insurance. And most of the customers obtained loans to purchase homes.
 
+
 ## KPI
 
-![image](https://user-images.githubusercontent.com/68920721/181877860-75225f50-c035-486d-8b4b-74d67f1c4760.png)
+<p align="center">
+  <img 
+src = "https://user-images.githubusercontent.com/68920721/181877860-75225f50-c035-486d-8b4b-74d67f1c4760.png"
+  >
+</p>
+
 
 - People with high income (>1000000) are likely to repay the loan.
 
